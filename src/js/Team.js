@@ -12,7 +12,7 @@ export default class Team {
     }
 
     addAll (...newMembers) {
-       newMembers.forEach(newMember => this.members.add(newMember))
+       newMembers.forEach(newMember => this.add(newMember))
     }
 
     toArray() {
