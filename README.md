@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/ngs0yrqttpcvmoa9?svg=true)](https://ci.appveyor.com/project/AleksandraIvanova90/set)
 
- # Домашнее задание к лекции «Регулярные выражения»
+ # Домашнее задание к лекции «Контейнеры»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
